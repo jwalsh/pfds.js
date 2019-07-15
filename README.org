@@ -1,0 +1,5 @@
+* pfds.js
+
+** Background
+
+http://wal.sh/research/purely-functional-data-structures.html
